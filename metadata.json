@@ -1,0 +1,6 @@
+{
+  "name": "CinePulse — Discover Masterpieces & Stream Cinema",
+  "description": "Next-generation cinematic streaming platform. Explore 4K HDR masterworks, interactive spatial audio, mood-based movie matching, and festival premieres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
